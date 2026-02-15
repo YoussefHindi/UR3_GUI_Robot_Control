@@ -3,7 +3,7 @@ GUI Implemented to move the robot
 
 ## Getting Started
 
-Extract the workspace in your home folder 
+CLone the repo into your workspace 
 
 ### Prerequisites
 
